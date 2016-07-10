@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d43579a-a467-431e-bffb-cd80e53c8010" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TWU_Triangle.ipr" afterPath="$PROJECT_DIR$/TWU_Triangle.ipr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PrimeFactors.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/PrimeFactorsTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TWU_Triangle.iws" afterPath="$PROJECT_DIR$/TWU_Triangle.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Drawer.java" afterPath="$PROJECT_DIR$/src/main/java/Drawer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/FizzBuzzGame.java" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzzGame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzGameTest.java" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzGameTest.java" />
     </list>
     <ignored path="TWU_Triangle.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -108,12 +106,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzzGame.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzBuzzGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzzGame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PrimeFactorsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimeFactors.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PrimeFactors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -436,6 +458,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Drawer.java" />
         <option value="$PROJECT_DIR$/src/test/java/FizzBuzzGameTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/FizzBuzzGame.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PrimeFactorsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrimeFactors.java" />
       </list>
     </option>
   </component>
@@ -584,7 +608,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzGameTest">
+  <component name="RunManager" selected="JUnit.PrimeFactorsTest">
     <configuration default="false" name="TestLineDrawer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea" />
       <module name="TWU_Triangle" />
@@ -594,27 +618,6 @@
       <option name="MAIN_CLASS_NAME" value="TestLineDrawer" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestLineDrawer.shouldPrint9AsterisksWhenNis9MaxIs9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea" />
-      <module name="TWU_Triangle" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestLineDrawer" />
-      <option name="METHOD_NAME" value="shouldPrint9AsterisksWhenNis9MaxIs9" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -676,6 +679,27 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FizzBuzzGameTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PrimeFactorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="TWU_Triangle" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrimeFactorsTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -1081,18 +1105,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.TestLineDrawer" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestLineDrawer.shouldPrint9AsterisksWhenNis9MaxIs9" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestLineDrawer.shouldPrint3AsterisksWhenNis8MaxIs8" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestLineDrawer.shouldPrintIsoscelesLineIs3" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FizzBuzzGameTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestLineDrawer.shouldPrint3AsterisksWhenNis8MaxIs8" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestLineDrawer.shouldPrintIsoscelesLineIs3" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FizzBuzzGameTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FizzBuzzGameTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestLineDrawer" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestLineDrawer.shouldPrintIsoscelesLineIs3" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestLineDrawer.shouldPrint3AsterisksWhenNis8MaxIs8" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestLineDrawer.shouldPrint9AsterisksWhenNis9MaxIs9" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FizzBuzzGameTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestLineDrawer" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestLineDrawer.shouldPrintIsoscelesLineIs3" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestLineDrawer.shouldPrint3AsterisksWhenNis8MaxIs8" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1114,7 +1138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1468082841554</updated>
       <workItem from="1468082842517" duration="297000" />
-      <workItem from="1468083178156" duration="21825000" />
+      <workItem from="1468083178156" duration="23631000" />
     </task>
     <task id="LOCAL-00001" summary="added some features.&#10;">
       <created>1468138625847</created>
@@ -1144,43 +1168,50 @@
       <option name="project" value="LOCAL" />
       <updated>1468159423964</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="refactor: FizzBuzz, it's more simple now">
+      <created>1468162621665</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1468162621665</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 48m 01s.xml">
-      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 49m 18s.xml">
-      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 50m 08s.xml">
-      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 51m 13s.xml">
-      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 51m 23s.xml">
-      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 51m 43s.xml">
-      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 52m 42s.xml">
-      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 53m 10s.xml">
-      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 53m 51s.xml">
       <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 55m 18s.xml">
       <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PrimeFactorsTest - 2016.07.10 at 23h 02m 50s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2016.07.10 at 23h 14m 22s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2016.07.10 at 23h 16m 31s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2016.07.10 at 23h 17m 26s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2016.07.10 at 23h 17m 58s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2016.07.10 at 23h 18m 05s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2016.07.10 at 23h 18m 40s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2016.07.10 at 23h 25m 24s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22122000" />
+    <option name="totallyTimeSpent" value="23928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
@@ -1194,7 +1225,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21528663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21528663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1225,7 +1256,8 @@
     <MESSAGE value="added diamond drawer" />
     <MESSAGE value="refactor: remove redundant codes from isosceles &amp; diamond.&#10;refactor: drawHorizon" />
     <MESSAGE value="added FizzBuzz&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added FizzBuzz&#10;" />
+    <MESSAGE value="refactor: FizzBuzz, it's more simple now" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: FizzBuzz, it's more simple now" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1358,6 +1390,26 @@
         <state relative-caret-position="126">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrimeFactorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrimeFactors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
