@@ -188,6 +188,13 @@
       </item>
     </group>
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="cwzeng">
+      <words>
+        <w>chaowei</w>
+      </words>
+    </dictionary>
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TWU_Triangle.iml" filepath="$PROJECT_DIR$/.idea/modules/TWU_Triangle.iml" />

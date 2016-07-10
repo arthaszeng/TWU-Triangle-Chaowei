@@ -45,4 +45,11 @@ public class TestLineDrawer {
         Drawer drawer = new Drawer();
         assertEquals("  *  \n *** \n*****\n *** \n  *  \n", drawer.drawDiamond(3));
     }
+
+    @Test
+    public void shouldPrintDiamondAndPrintMyName() throws Exception {
+        Drawer drawer = new Drawer();
+        assertEquals("  *  \n *** \nChaowei\n *** \n  *  \n", drawer.drawDiamondWithName(3));
+
+    }
 }
