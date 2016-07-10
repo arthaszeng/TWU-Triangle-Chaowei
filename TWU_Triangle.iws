@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d43579a-a467-431e-bffb-cd80e53c8010" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Drawer.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/LineDrawer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/LineDrawer.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/TestLineDrawer.class" afterPath="$PROJECT_DIR$/build/classes/test/TestLineDrawer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TWU_Triangle.ipr" afterPath="$PROJECT_DIR$/TWU_Triangle.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TWU_Triangle.iws" afterPath="$PROJECT_DIR$/TWU_Triangle.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLineDrawer.java" afterPath="$PROJECT_DIR$/src/test/java/TestLineDrawer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Drawer.java" afterPath="$PROJECT_DIR$/src/main/java/Drawer.java" />
     </list>
     <ignored path="TWU_Triangle.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,12 +96,9 @@
       <file leaf-file-name="Drawer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Drawer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-              <folding>
-                <element signature="e#1145#1146#0" expanded="true" />
-                <element signature="e#1172#1173#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,8 +106,8 @@
       <file leaf-file-name="TestLineDrawer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestLineDrawer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+            <state relative-caret-position="493">
+              <caret line="39" column="55" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1069,44 +1062,52 @@
       <option name="presentableId" value="Default" />
       <updated>1468082841554</updated>
       <workItem from="1468082842517" duration="297000" />
-      <workItem from="1468083178156" duration="9433000" />
+      <workItem from="1468083178156" duration="10217000" />
     </task>
+    <task id="LOCAL-00001" summary="added some features.&#10;">
+      <created>1468138625847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1468138625847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLineDrawer - 2016.07.10 at 15h 39m 03s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 15h 39m 05s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 15h 39m 28s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 15h 40m 58s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 15h 41m 35s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 15h 42m 42s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 15h 48m 20s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 16h 09m 51s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestLineDrawer - 2016.07.10 at 16h 10m 37s.xml">
       <configuration name="TestLineDrawer" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestLineDrawer - 2016.07.10 at 16h 11m 15s.xml">
       <configuration name="TestLineDrawer" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestLineDrawer - 2016.07.10 at 16h 23m 42s.xml">
+      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLineDrawer - 2016.07.10 at 16h 24m 54s.xml">
+      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLineDrawer - 2016.07.10 at 16h 25m 49s.xml">
+      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLineDrawer - 2016.07.10 at 16h 25m 55s.xml">
+      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLineDrawer - 2016.07.10 at 16h 26m 12s.xml">
+      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLineDrawer - 2016.07.10 at 16h 26m 54s.xml">
+      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLineDrawer - 2016.07.10 at 16h 27m 29s.xml">
+      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLineDrawer - 2016.07.10 at 16h 29m 43s.xml">
+      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9730000" />
+    <option name="totallyTimeSpent" value="10514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
@@ -1114,13 +1115,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21528663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21528663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1144,7 +1145,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="added some features.&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some features.&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1246,8 +1248,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestLineDrawer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+        <state relative-caret-position="493">
+          <caret line="39" column="55" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1256,12 +1258,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Drawer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-          <folding>
-            <element signature="e#1145#1146#0" expanded="true" />
-            <element signature="e#1172#1173#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

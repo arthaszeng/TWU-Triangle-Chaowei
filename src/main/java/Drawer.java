@@ -44,6 +44,18 @@ class Drawer {
     }
 
     String drawDiamond(int middleLine) {
-        return null;
+        String result = drawIsosceles(3);
+        int maxAsteNum = 2 * middleLine - 1;
+        for (int i = middleLine - 2; i >= 0; i--) {
+            for (int j = maxAsteNum - 1; j >= 0; j--) {
+                if ((j >= (maxAsteNum - 1)/2 - i) && (j <= (maxAsteNum - 1)/2 + i)) {
+                    result += "*";
+                } else {
+                    result += " ";
+                }
+            }
+            result += "\n";
+        }
+        return result;
     }
 }
