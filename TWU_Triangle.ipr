@@ -192,6 +192,8 @@
     <dictionary name="cwzeng">
       <words>
         <w>chaowei</w>
+        <w>fizzbuzz</w>
+        <w>normalmode</w>
       </words>
     </dictionary>
   </component>

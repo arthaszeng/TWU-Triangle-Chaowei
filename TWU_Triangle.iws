@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d43579a-a467-431e-bffb-cd80e53c8010" name="Default" comment="added FizzBuzz&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzzGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzGameTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/TestLineDrawer.class" afterPath="$PROJECT_DIR$/build/classes/test/TestLineDrawer.class" />
+    <list default="true" id="1d43579a-a467-431e-bffb-cd80e53c8010" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TWU_Triangle.ipr" afterPath="$PROJECT_DIR$/TWU_Triangle.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TWU_Triangle.iws" afterPath="$PROJECT_DIR$/TWU_Triangle.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Drawer.java" afterPath="$PROJECT_DIR$/src/main/java/Drawer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestLineDrawer.java" afterPath="$PROJECT_DIR$/src/test/java/TestLineDrawer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/FizzBuzzGame.java" afterPath="$PROJECT_DIR$/src/main/java/FizzBuzzGame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzGameTest.java" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzGameTest.java" />
     </list>
     <ignored path="TWU_Triangle.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -103,7 +101,7 @@
       <file leaf-file-name="Drawer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Drawer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
+            <state relative-caret-position="638">
               <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding />
             </state>
@@ -113,8 +111,8 @@
       <file leaf-file-name="FizzBuzzGame.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzzGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+            <state relative-caret-position="126">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -136,7 +134,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzzGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="124" selection-start-line="26" selection-start-column="124" selection-end-line="26" selection-end-column="124" />
+              <caret line="26" column="85" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1116,7 +1114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1468082841554</updated>
       <workItem from="1468082842517" duration="297000" />
-      <workItem from="1468083178156" duration="18703000" />
+      <workItem from="1468083178156" duration="21825000" />
     </task>
     <task id="LOCAL-00001" summary="added some features.&#10;">
       <created>1468138625847</created>
@@ -1139,43 +1137,50 @@
       <option name="project" value="LOCAL" />
       <updated>1468142959705</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added FizzBuzz&#10;">
+      <created>1468159423964</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1468159423964</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 21h 42m 26s.xml">
+    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 48m 01s.xml">
       <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 21h 50m 05s.xml">
+    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 49m 18s.xml">
       <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 21h 55m 54s.xml">
+    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 50m 08s.xml">
       <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 21h 56m 36s.xml">
+    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 51m 13s.xml">
       <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 02m 26s.xml">
+    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 51m 23s.xml">
       <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 17h 42m 41s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 51m 43s.xml">
+      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 17h 48m 25s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 52m 42s.xml">
+      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 17h 48m 52s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 53m 10s.xml">
+      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 17h 49m 23s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 53m 51s.xml">
+      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLineDrawer - 2016.07.10 at 21h 19m 57s.xml">
-      <configuration name="TestLineDrawer" configurationId="JUnit" />
+    <history-entry file="FizzBuzzGameTest - 2016.07.10 at 22h 55m 18s.xml">
+      <configuration name="FizzBuzzGameTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19000000" />
+    <option name="totallyTimeSpent" value="22122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
@@ -1189,7 +1194,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21528663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21528663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1214,6 +1219,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="added some features.&#10;" />
     <MESSAGE value="added diamond drawer" />
     <MESSAGE value="refactor: remove redundant codes from isosceles &amp; diamond.&#10;refactor: drawHorizon" />
@@ -1318,14 +1325,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Drawer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestLineDrawer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1336,10 +1335,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Drawer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FizzBuzzGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="124" selection-start-line="26" selection-start-column="124" selection-end-line="26" selection-end-column="124" />
+          <caret line="26" column="85" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1348,8 +1355,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FizzBuzzGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        <state relative-caret-position="126">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
