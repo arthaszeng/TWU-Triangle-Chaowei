@@ -3,17 +3,29 @@ import java.util.Iterator;
 import java.util.List;
 
 public class PrimeFactors {
-    List<String> generate(int n) {
-        if (n <= 3) {
+    List<Integer> generate (int num) {
+        List<Integer> result = new ArrayList<>();
+
+        if (num < 3) {
             return null;
         }
-        List<String> result = new ArrayList<>();
-        for (int i = 2; i < n; i++) {
-            if (n % i == 0) {
-                List<String> Buff = generate(i);
-                result = Buff;
+
+        for (int i = 2; i <= num/2; i++) {
+            if (num % i == 0) {
+                if ( isPrime(i)) {
+                    result.add(i);
+                }
             }
         }
         return result;
+    }
+
+    boolean isPrime(int num) {
+        for (int i = 2; i <= num / 2; i++) {
+            if ( num % i == 0) {
+                return false;
+            }
+        }
+        return true;
     }
 }
