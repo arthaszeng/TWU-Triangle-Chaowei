@@ -36,4 +36,5 @@ public class PrimeFactorsTest {
         PrimeFactors primeFactors = new PrimeFactors();
         assertEquals(Arrays.asList("2","3","5"), primeFactors.generate(30));
     }
+
 }

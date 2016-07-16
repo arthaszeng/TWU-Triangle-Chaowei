@@ -10,11 +10,8 @@ public class PrimeFactors {
         List<String> result = new ArrayList<>();
         for (int i = 2; i < n; i++) {
             if (n % i == 0) {
-                for (Iterator iterator= result.iterator(); iterator.hasNext(); iterator.next()) {
-                    if (i % Integer.getInteger(iterator.toString()) == 0)
-                        break;
-                    result.add(Integer.toString(i));
-                }
+                List<String> Buff = generate(i);
+                result = Buff;
             }
         }
         return result;
